@@ -1,4 +1,4 @@
-# -Interactive-Digital-Art-Canvas-
+# Interactive-Digital-Art-Canvas
 Interactive Digital Art Canvas - Java & DSA Project
 🎨 A feature-rich digital drawing application built with Java, leveraging Data Structures & Algorithms for an optimized and interactive art experience.
 
