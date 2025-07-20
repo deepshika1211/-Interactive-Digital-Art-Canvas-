@@ -1,6 +1,6 @@
 # Interactive-Digital-Art-Canvas
 🎨 A feature-rich digital drawing application built with Java, leveraging Data Structures & Algorithms for an optimized and interactive art experience.
-Java & DSA Project
+Java & DSA Project.
 
 🚀 Features
 1. Real-Time Drawing Engine
@@ -50,4 +50,4 @@ Factory Pattern → For creating different brush types dynamically.
 🎨File Handling & Serialization
 Uses Java’s ImageIO for saving/loading images.
 
-Object serialization for storing project metadata
+Object serialization for storing project metadata.
